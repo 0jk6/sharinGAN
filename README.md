@@ -37,4 +37,5 @@ Credits to these guys:
 
 [Ayush Chaurasia](https://www.youtube.com/c/AyushChaurasia)
 
-
+# Contribution
+No pull requests will be accepted because I want to work solo on this project.
